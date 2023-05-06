@@ -1,3 +1,5 @@
+origin: https://github.com/cepthomas/ICSharpCode.TextEditor.V4
+
 # ICSharpCode.TextEditor.V4
 An evolution of the old WinForm text editor. After evaluating a lot of editors for my text editor project, I stuck with this old favorite. However it has a few deficiencies which I intend to correct.
 - Dynamic loading of style/format files. Support user defined and editing.
